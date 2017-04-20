@@ -5,7 +5,7 @@ For reference, here's the [Dockerfile](../Dockerfile) we used to build the conta
 
 Here are the libraries you'll need:
 
-* [TensorFlow](https://www.tensorflow.org). On Mac OSX and Ubuntu, we recommend using a **virtualenv** based installation, as described on the installation page.
+* [TensorFlow](https://www.tensorflow.org/install/). On Mac OSX and Ubuntu, we recommend using a **virtualenv** based installation, as described on the installation page.
 
 * [Magenta](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization). Also download the pre-trained style transfer models (helpfully provided) on this page.
 
